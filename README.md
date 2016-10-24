@@ -28,19 +28,18 @@ Alunperin opetuskitit tarkoitettiin Säätökerhon omaan käyttöön, mutta täh
 
 ## Raudasta tarkemmin
 Yksityiskohtaisempaa tietoa pakettien osista. Yksi kappale moduleja ja päälevy per paketti ellei toisin mainita.
-  * [Sälää](#Sälää)
-  * [Pohja](#Pohja)
-  * [Päälauta](#Päälauta)
-  * [Keypad](#Keypad)
-  * [Valintamoduli](#Valintamoduli)
-  * [ADC-lauta](#ADC-lauta)
-  * [Servo](#Servo)
-  * [Moottori](#Moottori)
-  * [Etäisyyslauta](#Etäisyyslauta)
-  * [Heilumislauta](#Heilumislauta)
-  * [Zigbee](#ZigBee)
-  * [PC-puolen ZigBee](#PC-puolen)
-
+  * [Sälää](#sälää)
+  * [Pohja](#pohja)
+  * [Päälauta](#päälauta)
+  * [Keypad](#keypad)
+  * [Valintamoduli](#valintamoduli)
+  * [ADC-lauta](#adc-lauta)
+  * [Servo](#servo)
+  * [Moottori](#moottori)
+  * [Etäisyyslauta](#etäisyyslauta)
+  * [Heilumislauta](#heilumislauta)
+  * [Zigbee](#zigBee)
+  * [PC-puolen ZigBee](#PC-puolen-zigbee)
 
 ### Sälää
 * virtalähde, 12V 2-3 A, 20€
