@@ -38,8 +38,8 @@ Yksityiskohtaisempaa tietoa pakettien osista. Yksi kappale moduleja ja päälevy
   * [Moottori](#moottori)
   * [Etäisyyslauta](#etäisyyslauta)
   * [Heilumislauta](#heilumislauta)
-  * [Zigbee](#zigBee)
-  * [PC-puolen ZigBee](#PC-puolen-zigbee)
+  * [Zigbee](#zigbee)
+  * [PC-puolen ZigBee](#pc-puolen-zigbee)
 
 ### Sälää
 * virtalähde, 12V 2-3 A, 20€
